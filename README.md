@@ -1,0 +1,1 @@
+I'm trying to implement those concepts and algorithms describing in the book of PRML. It's kind of tech debt for those days back to my university. Speicial thanks to [PRML](https://github.com/PRML/PRMLT).
